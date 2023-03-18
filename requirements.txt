@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e .  #this triggers setup.py to be installed while installing this as a package
